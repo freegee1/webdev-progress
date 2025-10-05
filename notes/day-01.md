@@ -11,8 +11,8 @@
 - Links, email, quotes
 
 **Project:**
-- View code (repo): [../projects/day-01/index.html](../projects/day-01/index.html)
-- Live Website (Pages): ../projects/day-01/
+- Code: [../projects/day-01/index.html](../projects/day-01/index.html)
+- View Live Website: [View here](https://<freegee1>.github.io/webdev-progress/projects/day-01/)
 
 **Reflections:**
 - Wrote everything manually in VS Code
