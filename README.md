@@ -7,7 +7,7 @@ This repository tracks my progress as I learn **HTML**, **CSS**, and eventually 
 
 ## Live Website
 View my progress site here:  
-🔗 [https://your-username.github.io/webdev-progress/](https://your-username.github.io/webdev-progress/)
+🔗 [https://your-username.github.io/webdev-progress/](https://freegee1.github.io/webdev-progress/)
 
 ---
 
