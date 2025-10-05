@@ -12,7 +12,7 @@
 
 **Project:**
 - Code: [../projects/day-01/index.html](../projects/day-01/index.html)
-- View Live Website: [View here](https://<freegee1>.github.io/webdev-progress/projects/day-01/)
+- View Live Website: [View here](https://freegee1.github.io/webdev-progress/)
 
 **Reflections:**
 - Wrote everything manually in VS Code
