@@ -5,10 +5,10 @@
 **Chapters Covered:** 1–3
 
 **Topics Practiced:**
-- Basic HTML structure (`html`, `head`, `body`)
-- Headings & text (`i`, `b`, `em`, `strong`, `del`, `ins`, `sup`, `sub`, `abbr`, `dfn`)
-- Lists (`ul`, `ol`, `dl`) and nesting
-- Links (`a`), email (`mailto:`), quotes (`blockquote`, `q`), `hr`
+- Basic HTML structure
+- Headings & text
+- Lists and nesting
+- Links, email, quotes
 
 **Project:**
 - View code (repo): [../projects/day-01/index.html](../projects/day-01/index.html)
