@@ -14,7 +14,7 @@
 
 **Hands-on Practice:**  
 Built my own HTML page applying each concept:  
-👉 [/projects/day-01/](./projects/day-01/)
+ [/projects/day-01/](./projects/day-01/)
 
 **Reflections:**  
 - Gained confidence writing HTML manually in VS Code from scratch
