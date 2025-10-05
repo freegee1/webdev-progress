@@ -14,7 +14,7 @@
 - Horizontal rules and separation
 
 **Project:**
-- Code: [../projects/day-01/index.html](../projects/day-01/index.html)
+- Code: [View here](../projects/day-01/index.html)
 - Live Website: [View here](https://freegee1.github.io/webdev-progress/)
 
 **Reflections:**
