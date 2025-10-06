@@ -12,7 +12,7 @@
 
 **Project:**
 - View code (repo): [../projects/day-02/index.html](../projects/day-02/index.html)
-- Live demo (Pages): [View here](https://YOUR-USERNAME.github.io/webdev-progress/projects/day-02/)
+- Live demo (Pages): [View here](https://freegee1.github.io/webdev-progress/projects/day-02/)
 
 **Takeaways**
 - Relative vs absolute links
